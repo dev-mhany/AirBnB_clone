@@ -112,6 +112,5 @@ Prints the string representation of a class instance based on a given id.
 ```
 
 # Authors:
-* AMON MUNYAI
 * Muhammad Hany
 
